@@ -1,5 +1,5 @@
 [info]
-title=Css CanIUse
+title=CSS CanIUse
 desc=For CSS files, shows info about selected word from CanIUse.com site
 type=cudatext-plugin
 subdir=cuda_css_caniuse
